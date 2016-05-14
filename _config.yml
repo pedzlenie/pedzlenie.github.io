@@ -1,10 +1,10 @@
 ﻿# Site settings
-title: Pędzlenie2
+title: Pedzlenie
 email: klaudiakorniluk2@wp.pl
 url: https://pedzlenie.github.io
-description: 
-skills: " Graphic Artist"
-meta_author: Korniluk Klaudia
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+skills: "ASD - Graphic Artist - TEST"
+meta_author: Klaudia Korniluk
 
 # Google webmaster tools
 google_verify:
@@ -13,7 +13,7 @@ google_verify:
 bing_verify:
 
 # Contact form:
-# - static : pass through formspree.io to validate email sending
+# - static : pass through formspree.io to validate email sending
 # - disqus : replace contact form by disqus thread
 # - comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -24,14 +24,14 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: 48b9c7 #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Jarek Karczmarczyk
   location: Location
   social: Around the Web
   credits: Credits
@@ -39,9 +39,10 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:
- https://www.facebook.com/pedzlenie/?fref=ts 
-
+    url: http://facebook.com/pedzlenie/
+  - title: instagram
+    url: https://www.instagram.com/p/5P2ZEnpirR/
+    
 # Postal address (add as many lines as necessary)
 address:
   - line: 3481 Melrose Place
