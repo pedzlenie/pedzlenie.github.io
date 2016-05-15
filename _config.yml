@@ -31,7 +31,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Jarek Karczmarczyk
+  copyright: Jarek Kimono
   location: Location
   social: Around the Web
   credits: Credits
@@ -41,7 +41,7 @@ social:
   - title: facebook
     url: http://facebook.com/pedzlenie/
   - title: instagram
-    url: https://www.instagram.com/p/5P2ZEnpirR/
+    url: https://www.instagram.com/oddawajmojekredki/
     
 # Postal address (add as many lines as necessary)
 address:
